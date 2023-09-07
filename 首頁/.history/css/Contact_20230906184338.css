@@ -1,0 +1,9 @@
+.con-title {
+    width: 800px;
+    margin: auto;
+}
+.con-par1 {
+    width: 750px;
+    margin: auto;
+    border-bottom: 10px solid gray;
+}

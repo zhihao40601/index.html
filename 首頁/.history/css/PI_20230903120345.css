@@ -1,0 +1,12 @@
+.PI-id {
+    position: relative;
+    margin: auto;
+    top: 10px;
+    width: 800px;
+    height: 800px;
+    border: 5px solid gray;
+}
+.uanme-id {
+    
+    border-bottom: 5px solid gray;
+}

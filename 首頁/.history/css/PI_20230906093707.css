@@ -1,0 +1,119 @@
+.PI-id {
+    position: relative;
+    margin: auto;
+    top: 10px;
+    width: 900px;
+    height: 1000px;
+    border: 5px solid gray;
+}
+.uanme-top {
+    border-bottom: 2px solid gray;
+}
+.uanme-id {
+    display: inline-block;
+    margin: 10px 270px;
+}
+.uname {
+    font-size: 25px;
+    white-space: nowrap;
+}
+.uname-bottom {
+    position: relative;
+}
+.gts-pro .gts-exe .gts-item1 .gts-item2 {
+    display: inline-block
+}
+.uname-edu {
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+.edu-title {
+    font-weight: bold;
+}
+.edu-detail {
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.edu-date1 {
+    position: relative;
+    display: inline-block;
+    bottom: 23px;
+}
+.edu-date3 {
+    position: relative;
+    bottom: 23px;
+}
+.edu-date4 {
+    position: relative;
+    bottom: 46px;
+}
+.edu-par1 {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    white-space:pre-line
+}
+.edu-par2 {
+    display: inline-block;
+    position: relative;
+    left: 242px;
+    bottom: 23px;
+}
+.edu-par3 {
+    display: inline-block;
+    position: relative;
+    left: 242px;
+    bottom: 46px;
+}
+.edu-par4 {
+    display: inline-block;
+    position: relative;
+    left: 242px;
+    bottom: 69px;
+}
+.we-title {
+    font-weight: bold;
+}
+.uname-WE {
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+.we-detail {
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.we-date1 {
+    position: relative;
+    display: inline-block;
+    bottom: 23px
+}
+.we-date2 {
+    position: relative;
+    top: 13px;
+}
+/* .we-date3 {
+    position: relative;
+    top: 5px;
+} */
+.we-par1 {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    white-space:pre-line
+}
+.we-par2 {
+    display: inline-block;
+    position: relative;
+    left: 235px;
+    bottom: 10px;
+}
+.we-par3 {
+    display: inline-block;
+    position: relative;
+    left: 235px;
+    bottom: 30px;
+}

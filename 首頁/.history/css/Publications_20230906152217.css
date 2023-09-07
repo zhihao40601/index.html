@@ -1,0 +1,21 @@
+.pub-title {
+    width: 800px;
+    margin: auto;
+    margin-top: 10px;
+}
+.pub-par1,
+.pub-par2,
+.pub-par3,
+.pub-par4,
+.pub-par5,
+.pub-par6,
+.pub-par7,
+.pub-par8,
+.pub-par9,
+.pub-par10,
+.pub-par11,
+.pub-par12,
+.pub-par13 {
+    width: 700px;
+    margin: auto;
+}

@@ -1,0 +1,25 @@
+.con-title,
+.con-title2,
+.con-title3,
+.con-title4,
+.con-title5 {
+    width: 800px;
+    margin: auto;
+}
+.con-par1,
+.con-par2,
+.con-par3,
+.con-par4,
+.con-par5,
+.con-par6,
+.con-par7,
+.con-par8 {
+    width: 750px;
+    margin: auto;
+}
+hr {
+    margin-top: 5px;
+}
+.con-ul1 {
+    width: 700px;
+}

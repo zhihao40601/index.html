@@ -1,0 +1,13 @@
+.PI-id {
+    position: relative;
+    display: flex;
+    margin: auto;
+    top: 10px;
+    width: 800px;
+    height: 800px;
+    border: 5px solid gray;
+}
+.uname {
+    margin: auto;
+    border-bottom: 5px solid gray;
+}

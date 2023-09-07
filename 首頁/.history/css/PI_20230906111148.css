@@ -1,0 +1,235 @@
+.PI-id {
+    position: relative;
+    margin: auto;
+    top: 10px;
+    width: 900px;
+    height: 1200px;
+    border: 5px solid gray;
+}
+.uanme-top {
+    border-bottom: 2px solid gray;
+}
+.uanme-id {
+    display: inline-block;
+    margin: 10px 300px;
+}
+.uname {
+    font-size: 25px;
+    white-space: nowrap;
+}
+.uname-bottom {
+    position: relative;
+}
+.gts-pro .gts-exe .gts-item1 .gts-item2 {
+    display: inline-block
+}
+.uname-edu {
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+.edu-title {
+    font-weight: bold;
+}
+.edu-detail {
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.edu-date1 {
+    position: relative;
+    display: inline-block;
+    bottom: 23px;
+}
+.edu-date3 {
+    position: relative;
+    bottom: 23px;
+}
+.edu-date4 {
+    position: relative;
+    bottom: 46px;
+}
+.edu-par1 {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    white-space:pre-line
+}
+.edu-par2 {
+    display: inline-block;
+    position: relative;
+    left: 242px;
+    bottom: 23px;
+}
+.edu-par3 {
+    display: inline-block;
+    position: relative;
+    left: 242px;
+    bottom: 46px;
+}
+.edu-par4 {
+    display: inline-block;
+    position: relative;
+    left: 242px;
+    bottom: 69px;
+}
+.we-title {
+    font-weight: bold;
+}
+.uname-WE {
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+.we-detail {
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.we-date1 {
+    position: relative;
+    display: inline-block;
+    bottom: 23px
+}
+.we-date3 {
+    position: relative;
+    bottom: 23px;
+}
+.we-date4 {
+    position: relative;
+    bottom: 46px;
+}
+.we-date5 {
+    position: relative;
+    bottom: 69px;
+}
+.we-par1 {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    white-space:pre-line
+}
+.we-par2 {
+    display: inline-block;
+    position: relative;
+    left: 235px;
+    bottom: 23px;
+}
+.we-par3 {
+    display: inline-block;
+    position: relative;
+    left: 235px;
+    bottom: 46px;
+}
+.we-par4 {
+    display: inline-block;
+    position: relative;
+    left: 235px;
+    bottom: 69px;
+}
+.we-par5 {
+    display: inline-block;
+    position: relative;
+    left: 235px;
+    bottom: 92px;
+}
+.uname-HA {
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+.ha-title {
+    font-weight: bold;
+}
+.ha-detail {
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.ha-date1 {
+    position: relative;
+    display: inline-block;
+    /* bottom: 23px */
+}
+.ha-date3 {
+    position: relative;
+    bottom: 23px;
+}
+.ha-date4 {
+    position: relative;
+    bottom: 46px;
+}
+.ha-date5 {
+    position: relative;
+    bottom: 69px;
+}
+.ha-par1 {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+}
+.ha-par2 {
+    display: inline-block;
+    position: relative;
+    left: 170px;
+    bottom: 23px;
+}
+.ha-par3 {
+        display: inline-block;
+        position: relative;
+        left: 170px;
+        bottom: 46px;
+}
+.ha-par4 {
+    display: inline-block;
+    position: relative;
+    left: 170px;
+    bottom: 69px;
+}
+.ha-par5 {
+    display: inline-block;
+    position: relative;
+    left: 170px;
+    bottom: 92px;
+}
+.uname-gts {
+    position: relative;
+    top: 30px;
+    left: 50px;
+}
+.gts-title {
+        font-weight: bold;
+}
+.gts-top {
+    width: 440px;
+    position: relative;
+    left: 200px;
+    top: 46px;
+    border-bottom: 2px solid gray;
+}
+.gts-exe {
+    position: relative;
+    bottom: 23px;
+    left: 300px;
+}
+.gts-item1 {
+    width: 400px;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    top: 46px;
+}
+.gts-item2 {
+    width: 400px;
+    position: relative;
+    left: 500px;
+    bottom: 73px;
+}
+.gts-date2 {
+    
+}
+/* .gts-par2 {
+    display: inline-block;
+    position: relative;
+    /* left: 50px; */
+    /* top: 69px; */
